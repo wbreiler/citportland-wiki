@@ -2,7 +2,7 @@
 
 ![welcome](https://media.giphy.com/media/kHs1lBhZWaK5rj7lt3/source.gif)
 
-PineDocs is a simple, fast, customizable and lightweight site for browsing files.
+Here you'll find everything you need to know, including important IP addresses and passwords
 
 
 ## Tips for navigating the wiki

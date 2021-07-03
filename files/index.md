@@ -11,12 +11,12 @@ Here you'll find everything you need to know, including important IP addresses a
 
 
 ## Reporting bugs
-If you find any bugs please send me a message [GitHub](https://github.com/xy2z/PineDocs/issues)
+If you find any bugs please send me (Will Breiler) a message or Mr. Cutchins a message on Teams.
 
 
 ## Contribute
-If you find anything that isn't documented and you think it should be, let me (Will Breiler) or Mr. Cutchins know!
+If you find anything that isn't documented and you think it should be, let me or Mr. Cutchins know!
 
 
 ## Discord
-Come on over to the official unofficial [Discord server](https://discord.gg/JW5DNSy9K7)
+Come on over to the official unofficial [Discord server](https://discord.gg/JW5DNSy9K7)!

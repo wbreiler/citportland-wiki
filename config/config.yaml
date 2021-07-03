@@ -4,7 +4,7 @@
 # https://github.com/xy2z/PineDocs/tree/master#configuration
 
 # [string] The title.
-title: PineDocs
+title: CIT Portland Wiki
 
 # [string] The full path of the content directory to show.
 #content_dir: /data/pinedocs/content
@@ -15,11 +15,11 @@ index: index.md
 # [string] Layout to use.
 # A layout is basically anything but the colors.
 # See a list of layouts in public/layouts/
-layout: default
+layout: wiki
 
 # [string] The color-scheme to use.
 # See available color schemes in public/color-schems/
-# color_scheme: pinedocs
+color_scheme: twilight 
 
 # [string] Code highlighting themes: default, monokai, tomorrow, sunburst, darcula.
 # See available themes on https://highlightjs.org/static/demo/

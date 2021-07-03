@@ -1,6 +1,6 @@
 # Welcome to the CIT Portland Wiki!
 
-![welcome](https://tenor.com/bdiD7.gif)
+![welcome](https://media.giphy.com/media/kHs1lBhZWaK5rj7lt3/source.gif)
 
 PineDocs is a simple, fast, customizable and lightweight site for browsing files.
 

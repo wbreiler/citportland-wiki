@@ -19,4 +19,4 @@ If you find anything that isn't documented and you think it should be, let me or
 
 
 ## Discord
-Come on over to the official unofficial [Discord server](https://discord.gg/JW5DNSy9K7)!
+Come on over to the official unofficial [Discord server](https://discord.gg/JW5DNSy9K7)! We'd love to have you!

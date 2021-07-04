@@ -44,7 +44,7 @@ exclude_files:
   - .swp
 
 # [bool] Show file extensions.
-show_file_extension: true
+show_file_extension: false
 
 # [string] How to render links and dirs.
 # Values: default, ucfirst, ucwords, uppercase, lowercase.

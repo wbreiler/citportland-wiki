@@ -6,21 +6,11 @@ To install the Steam launcher, make sure you have `multiverse` repository enable
 
 ## Installing Epic Games on Ubuntu:
 To install Epic Games, you're going to have to do some other things first.
-- 1. Install Wine
-    * Enable 32-bit architecture: 
-        * `$ sudo dpkg --add-architecture i386`
-    * Download Wine's repository key: 
-        * `$ wget -nc https://dl.winehq.org/wine-builds/winehq.key`
-    * Add the repository key to your system:
-        *  `$ sudo apt-key add winehq.key`
-    * Add the repository to your system: 
-        * `sudo apt-add-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ focal main'`
-    * Update your apt cache and install the latest version of Wine: 
-        * `$ sudo apt update`
-        * `$ sudo apt install --install-recommends winehq-stable`
-- 2. Install Lutris
-    * Add the Lutris PPA:
-        *  `$ sudo add-apt-repository ppa:lutris-team/lutris`
-    * Update your apt cache and install the latest version of Lutris:
-        * `$ sudo apt update`
-        * `$ sudo apt install lutris`
+- 1. Find your architecture version
+    * Open a terminal (Ctrl + Alt + T) and run:
+        * `$ uname -m`
+- 2. If it is 64-bit (the output of the above command is `x86_64`), do the following:
+    * Open a terminal (Ctrl + Alt + T) and run:
+        * `$ wget https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v1.8.1/heroic_1.8.1_amd64.deb`
+    * Install it by running:
+        * `$ sudo dpkg -i herotic_1.8.1_amd64.deb`

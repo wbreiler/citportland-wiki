@@ -10,6 +10,6 @@ If you don't have an Ethernet cable at your seat, but you do have a computer wit
 
 ## How to install
 
-All of these games, with the exception of Minecraft which **MUST** be started with an active internet connection first, are hosted on the local [file server](ftp://localhost)!
+If you're running Windows or MacOS, it's as simple as connecting to the [file server](), entering the `Games` directory, then entering the directory for your specific platform and copying the `.exe` or `.app` file(s) respectively. If you're running Linux, follow [this guide](linux-install.md).
 
 

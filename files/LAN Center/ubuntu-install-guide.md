@@ -1,4 +1,4 @@
-# Linux Install Guide
+# Ubuntu Install Guide
 ![linux in a nutshell](https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif)
 
 ## Installing Steam on Ubuntu:

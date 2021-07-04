@@ -5,9 +5,9 @@ The LAN Center is the area where you can bring your personal computer (laptop or
 
 ## How to connect
 
-If you don't have an Ethernet cable at your seat, but you do have a computer with a Wi-Fi connection you can connect to the access point
+If you don't have an Ethernet cable at your seat, but you do have a computer with a Wi-Fi connection you can connect to the access point by scanning [this qr code]()
 
 
 ## How to install
 
-If you're running Windows or MacOS, make sure you have the appropriate launcher(s) installed. If you're running Linux, head on over to the [Linux install guide](#LAN%20Center/linux-install.md)
+If you're running Windows or MacOS, make sure you have the appropriate launcher(s) installed. If you're running Linux, head on over to the [Linux install guide](#LAN%20Center/linux-install.md).

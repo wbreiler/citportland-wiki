@@ -1,5 +1,5 @@
 # Ubuntu Install Guide
-![linux in a nutshell](https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif)
+<img src="https://i.imgur.com/q7GqrC9.gif" width="50%" height="50%"/>
 
 ## Installing Steam on Ubuntu:
 To install the Steam launcher, make sure you have `multiverse` repository enabled by running `$ sudo add-apt-repository multiverse` and update your apt cache by running `$ sudo apt update`. Once your apt cache is updated, install it by running `$ sudo apt install steam`. Once it's installed, open the Applications Menu and open Steam and log in.

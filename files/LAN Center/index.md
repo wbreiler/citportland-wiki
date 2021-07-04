@@ -10,6 +10,6 @@ If you don't have an Ethernet cable at your seat, but you do have a computer wit
 
 ## How to install
 
-If you're running Windows or MacOS, it's as simple as connecting to the [file server](), entering the `Games` directory, then entering the directory for your specific platform and copying the `.exe` or `.app` file(s) respectively. If you're running Linux, follow [this guide](LAN%20Center/linux-install.md).
+If you're running Windows or MacOS, it's as simple as connecting to the [file server](), entering the `Games` directory, then entering the directory for your specific platform and copying the `.exe` or `.app` file(s) respectively. If you're running Linux, follow [this guide](#LAN%20Center/linux-install.md).
 
 

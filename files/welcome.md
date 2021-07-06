@@ -13,6 +13,7 @@ Here you'll find everything you need to know to get work done, and maybe even ha
     * [How to setup your Windows PC or Mac for the LAN Center](#LAN%20Center/setup-guide.md)
     * [How to set up your Ubuntu computer for use in the LAN Center](#LAN%20Center/ubuntu-install-guide.md)
 - Documentation
+    * [Home page](#Documentation/index.md)
     * [Information on the Cisco 1921 router running the LAN Center](#Documentation/cisco-1921.pdf)
     * [Information on the HPE 1820 series switches in the LAN Center rack](#Documentation/hpe-1820-series.pdf)
 

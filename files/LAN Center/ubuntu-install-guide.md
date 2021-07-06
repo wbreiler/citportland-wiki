@@ -1,6 +1,9 @@
 # Ubuntu Install Guide
 <img src="https://i.imgur.com/q7GqrC9.gif" width="512" height="512"/>
 
+## Preface:
+This guide is good for Ubuntu, as well as other Debian or Ubuntu based Linux distros. Some examples include Lubuntu, Xubuntu, Kubuntu, Linux Mint, Knoppix, and Deepin. You also **MUST** be comfortable using a command line to install packages.
+
 ## Installing Steam on Ubuntu:
 1. Confirm that the `multiverse` Ubuntu repository is enabled by doing the following:
     * Open a terminal (Ctrl + Alt + T) and run:

@@ -28,7 +28,7 @@ highlight_theme: darcula
 # [bool] Use transparent bacground on code blocks?
 # True: The background will be transparent.
 # False: The background from the highlight_theme will be used.
-code_transparent_bg: False
+code_transparent_bg: True
 
 # [int|string] How many dirs to open on pageload.
 # Use 'all' to open all dirs, or use a number to specify the levels of dir to open.
@@ -68,3 +68,5 @@ render_max_file_size: 50
 # [array] A list of folders to hide from frontend navigation. Case-insensitive.
 # hide_folders_in_navigation:
 #  - hide-this
+
+render_footer: False

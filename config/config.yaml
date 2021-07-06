@@ -19,11 +19,11 @@ layout: wiki
 
 # [string] The color-scheme to use.
 # See available color schemes in public/color-schems/
-color_scheme: twilight 
+color_scheme: simplistic-dark 
 
 # [string] Code highlighting themes: default, monokai, tomorrow, sunburst, darcula.
 # See available themes on https://highlightjs.org/static/demo/
-highlight_theme: bash
+highlight_theme: shell session
 
 # [bool] Use transparent bacground on code blocks?
 # True: The background will be transparent.
@@ -67,4 +67,4 @@ render_max_file_size: 50
 
 # [array] A list of folders to hide from frontend navigation. Case-insensitive.
 # hide_folders_in_navigation:
-#  - hide-this
+  - Documentation

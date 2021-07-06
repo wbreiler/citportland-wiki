@@ -15,11 +15,11 @@ index: index.md
 # [string] Layout to use.
 # A layout is basically anything but the colors.
 # See a list of layouts in public/layouts/
-layout: default
+layout: wiki
 
 # [string] The color-scheme to use.
 # See available color schemes in public/color-schems/
-color_scheme: twilight 
+color_scheme: twilight
 
 # [string] Code highlighting themes: default, monokai, tomorrow, sunburst, darcula.
 # See available themes on https://highlightjs.org/static/demo/

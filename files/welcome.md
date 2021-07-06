@@ -2,7 +2,7 @@
 
 ![welcome](https://media.giphy.com/media/kHs1lBhZWaK5rj7lt3/source.gif)
 
-Here you'll find everything you need to know, including important IP addresses and passwords
+Here you'll find everything you need to know to get work done, and maybe even have some fun along the way.
 
 
 ## Table of Contents

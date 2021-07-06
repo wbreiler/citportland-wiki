@@ -5,9 +5,13 @@
 Here you'll find everything you need to know, including important IP addresses and passwords
 
 
-## Tips for navigating the wiki
-- Press `F` on your keyboard to focus on the search bar.
-- Press `*` on your keyboard to open all directories recursively.
+## Table of Contents
+* [Welcome page](#welcome.md) <-- You are here! 
+* LAN Center
+    * [Home page](#LAN%20Center/index.md)
+    * [Info on the network rack](#LAN%20Center/network-rack.md)
+    * [How to setup your Windows PC or Mac for the LAN Center](#LAN%20Center/setup-guide.md)
+    * [How to set up your Ubuntu computer for use in the LAN Center](#LAN%20Center/ubuntu-install-guide.md)
 
 
 ## Reporting bugs

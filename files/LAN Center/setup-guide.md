@@ -3,8 +3,11 @@
 
 ## How to connect
 
-If you don't have an Ethernet cable at your seat, but you do have a computer with a Wi-Fi connection you can connect to the access point by scanning [this qr code]()
+Via Ethernet:
+- Grab the Ethernet cable that is at your station and plug it in. If there isn't one at your station, get Mr. Cutchins
 
+Via Wifi:
+- Scan [this qr code]()
 
 ## How to install
 

@@ -15,11 +15,11 @@ index: index.md
 # [string] Layout to use.
 # A layout is basically anything but the colors.
 # See a list of layouts in public/layouts/
-layout: wiki
+layout: default
 
 # [string] The color-scheme to use.
 # See available color schemes in public/color-schems/
-color_scheme: simplistic-dark 
+color_scheme: twilight 
 
 # [string] Code highlighting themes: default, monokai, tomorrow, sunburst, darcula.
 # See available themes on https://highlightjs.org/static/demo/
@@ -67,4 +67,4 @@ render_max_file_size: 50
 
 # [array] A list of folders to hide from frontend navigation. Case-insensitive.
 # hide_folders_in_navigation:
-  - documentation
+#  - hide-this

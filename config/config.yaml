@@ -23,7 +23,7 @@ color_scheme: twilight
 
 # [string] Code highlighting themes: default, monokai, tomorrow, sunburst, darcula.
 # See available themes on https://highlightjs.org/static/demo/
-highlight_theme: darcula
+highlight_theme: bash
 
 # [bool] Use transparent bacground on code blocks?
 # True: The background will be transparent.

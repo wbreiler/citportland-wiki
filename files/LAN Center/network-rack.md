@@ -1,5 +1,5 @@
 # The Network Rack
-![the all mighty networking rack](https://thumbs.gfycat.com/ShockingBlackIchthyosaurs-mobile.mp4)
+![the all mighty networking rack](https://gfycat.com/enlightenedrightherring)
 
 ## The Hardware
 1. 1x Cisco 1921 Router ([Documentation](#Documentation/cisco-1921.pdf))
